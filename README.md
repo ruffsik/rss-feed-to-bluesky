@@ -27,7 +27,7 @@ BLUESKY_USERNAME=   // your bluesky username
 BLUESKY_PASSWORD=   // your password
 ```
 
-### Customizing the code
+## Customizing the code
 * Depending on the structure of the rss feed, there need changes to be made to extract the image URL
 * Change the fetched items to be used in the code
 ```
