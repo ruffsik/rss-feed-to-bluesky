@@ -43,3 +43,7 @@ BLUESKY_PASSWORD=   // your password
 ```
     const richText = new RichText({ text: `${contentSnippet}` });
 ```
+
+### Bluesky Docs
+* https://docs.bsky.app/docs/starter-templates/bots
+* https://docs.bsky.app/docs/tutorials/creating-a-post#website-card-embeds
